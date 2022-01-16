@@ -1,0 +1,47 @@
+{
+  "banks": {
+    "IL": {
+      "AAA": 1.13,
+      "BBB": 2.23,
+      "CCC": 3.0112,
+      "DDD": 4.673,
+      "GBP": 0.24,
+      "USD": 0.32,
+      "countryCurrency": "ILS"
+    },
+    
+    "GB": {
+      "AAA": 2.23,
+      "BBB": 2.13,
+      "CCC": 2.4412,
+      "DDD": 2.743,
+      "ILS": 4.18,
+      "USD": 1.35,
+      "PHP": 69.45,
+      "countryCurrency": "GBP"
+    },
+    "US": {
+      "AAA": 1.23,
+      "ITA": 10,
+      "BBB": 1.13,
+      "CCC": 1.4412,
+      "DDD": 1.743,
+      "ILS": 4,
+      "GBP": 1.15,
+      "PHP": 51.34,
+      "countryCurrency": "USD"
+    },
+    "PH":{
+      "AAA":1,
+      "RRR": 1.5,
+      "countryCurrency": "PHP"
+      
+    },
+    "IT":{
+      "AAA":1.23,
+      "QQQ":10,
+      "countryCurrency": "ITA"
+    }
+  }
+}
+
